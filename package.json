@@ -1,0 +1,18 @@
+{
+  "name": "gitlog2md",
+  "version": "0.1.0",
+  "description": "Convert git log to markdown for an easier reading and change tracking",
+  "author": "Peter Jedra",
+  "scripts": {
+    "test": "node --test",
+    "start": "node gitlog2md.js"
+  },
+  "keywords": [
+    "changelog",
+    "change",
+    "log",
+    "github",
+    "cli"
+  ],
+  "license": "MIT"
+}
